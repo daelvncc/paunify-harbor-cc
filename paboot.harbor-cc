@@ -1,0 +1,3 @@
+name       = "CraftOS"
+arch       = "harbor"
+entrypoint = "/pau/harbor-cc.lua"
